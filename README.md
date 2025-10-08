@@ -1,10 +1,6 @@
-\# Icono Personal
-
-
+# Icono Personal
 
 El estudiante deberá crear un icono personalizado para todas sus aplicaciones Android, considerando lo siguiente:
-
-
 
 * Debe ser único de cada estudiante.
 * Ser creativo en el diseño.
@@ -13,11 +9,6 @@ El estudiante deberá crear un icono personalizado para todas sus aplicaciones A
 * No debe poseer símbolos prohibidos o denigrantes.
 * Debe incluir los diseños de todas las dimensiones requeridas por Android.
 
-
-
-!\[img-dimensiones](.img/Dimensiones-iconos.jpg)
-
-
+![img-dimensiones](.img/Dimensiones-iconos.jpg)
 
 El estudiante deberá subir un archivo comprimido con el diseño en todos los diferentes tamaños.
-
