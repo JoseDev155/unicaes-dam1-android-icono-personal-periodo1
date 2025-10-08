@@ -9,6 +9,6 @@ El estudiante deberá crear un icono personalizado para todas sus aplicaciones A
 * No debe poseer símbolos prohibidos o denigrantes.
 * Debe incluir los diseños de todas las dimensiones requeridas por Android.
 
-![img-dimensiones](.img/Dimensiones-iconos.jpg)
+![img-dimensiones](./img/Dimensiones-iconos.JPG)
 
 El estudiante deberá subir un archivo comprimido con el diseño en todos los diferentes tamaños.
